@@ -1,0 +1,2564 @@
+[
+  {
+    "file": "sources/assets/cards/muslim/01_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 3,
+    "kind": "card",
+    "removedOffCanvas": 21,
+    "bytes": 1159049,
+    "sha256": "4c194779e843e2de6f3f07af63e5328dccdc2d62f7ea5ad9589d2ba839695370",
+    "text": "Add 2 DICE to the defense of an area in response to an atack. Militia",
+    "originalSvg": "assets/cards/muslim/01_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/02_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 24,
+    "bytes": 884293,
+    "sha256": "255b01021d00866b5e3439035ac9824b941098ef04355f1dfe923cdce331f25e",
+    "text": "You can add up to 2 DICE to a dice roll of your choice. BOT: Will add these dice to the ﬁrst event card, incursion, atack or defense of his own that it can. Champion",
+    "originalSvg": "assets/cards/muslim/02_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/03_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      180,
+      270,
+      360,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 26,
+    "bytes": 869793,
+    "sha256": "1ca03f180b16b31b70b41dc33577e5081d37013715593b527199387f5a731237",
+    "text": "You can add up to 3 DICE to a dice roll of your choice. BOT: Will add these dice to the ﬁrst event card, incursion, atack or defense of his own that it can. Leader",
+    "originalSvg": "assets/cards/muslim/03_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/04_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      360,
+      270,
+      540,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 22,
+    "bytes": 1029002,
+    "sha256": "895255e752ab5f1afff5e6c47d9aef913c4aee2d7886d74bca5a1654b004125a",
+    "text": "Te atacker must remove a TROOP card of his choice from those atacking the area. BOT: Chooses the lowest value Troop. Surprise sortie",
+    "originalSvg": "assets/cards/muslim/04_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/05_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      0,
+      540,
+      180,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 21,
+    "bytes": 1084590,
+    "sha256": "5acffecd80a7c496f6082f666635ccf71722d725d1c7d15e6de6b1f3a27c0583",
+    "text": "Before your opponent reveals his cards, the atack you choose automatically fails. Ambush",
+    "originalSvg": "assets/cards/muslim/05_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/06_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 23,
+    "bytes": 1005740,
+    "sha256": "a1a6fc8c36aa5a353d94f7f79ba799412f3d128caef409bba54716354532d8e4",
+    "text": "Afer an ATACK you participa- te in, you may retrieve one of the participating TROOP cards. BOT: Retrieves the highest value Troop. Hakim",
+    "originalSvg": "assets/cards/muslim/06_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/07_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 18,
+    "bytes": 891506,
+    "sha256": "26c293d0025b2d5651242f29307fde7d8575abb4d738b7cc9b7b6d88a285347a",
+    "text": "Te kingdom you choose and you immediately draw a card. You both increase the card BONUS by 1. BOT: If possible, chooses a kingdom it doesn't border. Trade",
+    "originalSvg": "assets/cards/muslim/07_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/08_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 17,
+    "bytes": 994085,
+    "sha256": "a7b311b40f37f61a24c438a96f2731c9537d65e2efcdfb765a94e1c8e1d26a2c",
+    "text": "During your round you can give a card to the kingdoms you want so that both of you can't do the ATACK action one against the other for the rest of the turn. Paria",
+    "originalSvg": "assets/cards/muslim/08_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/09_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 20,
+    "bytes": 1048170,
+    "sha256": "9c8acd0bf08a72cb53647d6c08a0e1deec759b7a84db209acf98d8923095083d",
+    "text": "Increse your card BONUS by 2. Suﬁ School",
+    "originalSvg": "assets/cards/muslim/09_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/10_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 16,
+    "bytes": 1122546,
+    "sha256": "c22d01d829c5a5a04d917e738cb3ab43042b0d1c79b5b9a9baa2c1d13e549337",
+    "text": "An area of your choice, borde- ring an independent area, will be atacked with 5 DICE. If the atack succeeds, it becomes independent as well. (It is resolved as an atack action). BOT: See rules. Independent campaign",
+    "originalSvg": "assets/cards/muslim/10_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/11_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      180,
+      270,
+      360,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 22,
+    "bytes": 949161,
+    "sha256": "2224a2f06fed9f7b463bc3ae03fbaeb53a80b8f801a3e8595f3b072505d12b7c",
+    "text": "Choose a kingdom who must discard one card at random. BOT: Chooses the kingdom with the most cards in its hand. Razzia",
+    "originalSvg": "assets/cards/muslim/11_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/12_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      360,
+      270,
+      540,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 19,
+    "bytes": 1008010,
+    "sha256": "1811c8a1bfcf2ecee5a91329407655b2425ab93f734f4fa3d8c467e91ae58fb0",
+    "text": "During the rest of the turn you can look at the cards of the atacks you receive. Also, bots can't do the Incursion action against you. Watchtower",
+    "originalSvg": "assets/cards/muslim/12_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/13_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      0,
+      540,
+      180,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 17,
+    "bytes": 1138146,
+    "sha256": "46893dc6171db7edf0a65a6462ae23d0a9a47591f69800165dbf2a12baf61973",
+    "text": "Choose a RESPONSE card from those already played and add it to your hand. Mercenaries",
+    "originalSvg": "assets/cards/muslim/13_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/14_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 18,
+    "bytes": 1017538,
+    "sha256": "f82fadbe5dbf76d582743e169829fade4e81b448557940725ebfb476dd9dcc04",
+    "text": "You can replace up to 3 CARDS from your hand (including this one) with new cards drawn from the Muslim deck. Succession",
+    "originalSvg": "assets/cards/muslim/14_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/15_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 17,
+    "bytes": 979599,
+    "sha256": "e21c2e22faad989ba150be4e8d3b56589a9be056ef9e42ba638db3a28694a424",
+    "text": "Immediately increase your card BONUS by 1. Also, you can increase your card BONUS by 1 everytime you do the discard action. Irrigations",
+    "originalSvg": "assets/cards/muslim/15_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/16_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 23,
+    "bytes": 974695,
+    "sha256": "452700141222c390f5a0c5bb5f242abd1094356a8ba95408b279e88a53d77ee5",
+    "text": "Draw one card from each deck and keep one of them. BOT: Rolls one die to choose the deck. Jews",
+    "originalSvg": "assets/cards/muslim/16_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/17_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 24,
+    "bytes": 901831,
+    "sha256": "2b1effa97dad6e9dfb173cef49efb50fd9f86531c82e6d10e5e0bf28075c145c",
+    "text": "All your areas with defensive value 2 are counted as defensive value 3 for the rest of the turn. Citadels",
+    "originalSvg": "assets/cards/muslim/17_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/18_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 21,
+    "bytes": 1107591,
+    "sha256": "e54fa27d685d0302c1e15841e447d4ce47ef287643f016c30e51d1a67fe2f8e5",
+    "text": "Draw 2 CARDS from the Muslim deck and add them to your hand, all other Muslim kingdoms draw 1 card each. D Al-Andalus",
+    "originalSvg": "assets/cards/muslim/18_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/19_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 26,
+    "bytes": 879045,
+    "sha256": "ee2c78443b7d00f0652ed5b91a02e97491027a6c9ba05ae1be680f5833b6c617",
+    "text": "Draw a random card from any kingdoms and add it to your hand. BOT: Chooses the kingdom with the most cards in its hand. Seduction",
+    "originalSvg": "assets/cards/muslim/19_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/20_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      180,
+      270,
+      360,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 28,
+    "bytes": 1048224,
+    "sha256": "c5b21a38ea462310c818f5a016a9954dd4f861fcb352787475cfc44cc696515b",
+    "text": "Put garrison in two areas of your choice (they can be from another kingdom). BOT: Roll 2 times the die to choose castles controlled by the bot. Walls",
+    "originalSvg": "assets/cards/muslim/20_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/21_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      0,
+      540,
+      180,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 20,
+    "bytes": 1004377,
+    "sha256": "179970885db8353082a99a9876ff3dbc9be873e1181c6269b6823d6931329c6f",
+    "text": "Te uprising atacks with 4 DICE an area of your choice, if successful the area becomes independent. (It is resolved as an atack action). Uprising",
+    "originalSvg": "assets/cards/muslim/21_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/22_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 27,
+    "bytes": 890676,
+    "sha256": "82180a6734f48b84594b5163b9176b5e3949bdcd55ff8ad43482f28d2bb836fd",
+    "text": "Atack with 5 DICE a border area belonging to another kingdom, if you win the area becomes independent. (It is resolved as an atack action). Conspiracy",
+    "originalSvg": "assets/cards/muslim/22_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/23_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 3,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 20,
+    "bytes": 974120,
+    "sha256": "82798007a387a7b7f277947a6bbabf975e08f90c173707839ef8d42b9a242ab6",
+    "text": "5 5 Almoravids",
+    "originalSvg": "assets/cards/muslim/23_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/24_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 4,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 26,
+    "bytes": 974255,
+    "sha256": "95ed4bdf1b1095aa99e5e036554555d31d37698dc5c236b10c9ed73b4de53d75",
+    "text": "4 4 Te Caid's guard",
+    "originalSvg": "assets/cards/muslim/24_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/25_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 4,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 18,
+    "bytes": 962210,
+    "sha256": "246de381c972efd2c99b586623331d05148e9e91d1fbdd1d65cdfda10b317e64",
+    "text": "4 4 Te Black guard",
+    "originalSvg": "assets/cards/muslim/25_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/26_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 4,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 5,
+    "kind": "card",
+    "removedOffCanvas": 25,
+    "bytes": 967591,
+    "sha256": "f3df57b86fbfcfb927b44e148861860b6c7e392e308fe61e86bf80dea192b064",
+    "text": "3 3 Berber mercenaries",
+    "originalSvg": "assets/cards/muslim/26_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/27_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 4,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 6,
+    "kind": "card",
+    "removedOffCanvas": 20,
+    "bytes": 970223,
+    "sha256": "ff44f754cda786ab1532dd4227e243f54d7a0637e65391f5e7ae072554f4cf5c",
+    "text": "2 2 Andalusians",
+    "originalSvg": "assets/cards/muslim/27_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/28_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 5,
+    "cropPt": [
+      360,
+      270,
+      540,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 21,
+    "bytes": 957496,
+    "sha256": "47909521d2eea398ec83c16136e60380bc429cf148f313a86d0f1b03d639c023",
+    "text": "1 1 Levies",
+    "originalSvg": "assets/cards/muslim/28_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/29_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 5,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 20,
+    "bytes": 960717,
+    "sha256": "d1d73b1d70f03e0b8098a9a86f53ed6aaec85cf529536a8d5290c03e7a8c3bc0",
+    "text": "1 1 Peasants",
+    "originalSvg": "assets/cards/muslim/29_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/30_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 5,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 16,
+    "bytes": 962896,
+    "sha256": "011f72958c61ecc533e6c2d94e65d1f1ee8b9207cca92a55e8e675675cd18ead",
+    "text": "1 1 Skirmishers",
+    "originalSvg": "assets/cards/muslim/30_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/muslim/back_0.3mm.svg",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 6,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 3,
+    "bytes": 682596,
+    "sha256": "885e9405f31a6ab73280564f954cb4a1f2d0cd24550f4d9605eb641e7e064913"
+  },
+  {
+    "file": "sources/assets/cards/christian/01_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 30,
+    "bytes": 941114,
+    "sha256": "85ae462429d5d0362f9c05cec5eb7f63c253230acd9fbe0c2a1d6ce796ccbff6",
+    "text": "You can add up to 4 DICE to a dice roll of your choice. Cannot be used against Castile. BOT: Will add these dice to the ﬁrst event card, incursion, atack or defense of his own that it can. El Cid scenario: Te Bot gives this card to the player. El Cid",
+    "originalSvg": "assets/cards/christian/01_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/02_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 31,
+    "bytes": 843338,
+    "sha256": "f8164a19ff1501b7d5a4ddcae4cd586eff034cdd87eb2a66f17c3af01bcd979d",
+    "text": "You can add up to 3 DICE to a dice roll of your choice. BOT: Will add these dice to the ﬁrst event card, incursion, atack or defense of his own that it can. Leader",
+    "originalSvg": "assets/cards/christian/02_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/03_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 25,
+    "bytes": 876899,
+    "sha256": "1fe7d7bdc976480bf21b6120373b458710c80dc312b1e38c357269dbdbceeb3a",
+    "text": "You can add up to 2 DICE to a dice roll of your choice. BOT: Will add these dice to the ﬁrst event card, incursion, atack or defense of his own that it can. Champion",
+    "originalSvg": "assets/cards/christian/03_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/04_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 32,
+    "bytes": 1144582,
+    "sha256": "a90127732a8e762c70ec31dd44aca942c52b30aac17f50e7cb84b0c6c230120c",
+    "text": "Add 2 DICE to the defense of an area in response to an atack. Militia",
+    "originalSvg": "assets/cards/christian/04_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/05_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      180,
+      270,
+      360,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 33,
+    "bytes": 1018643,
+    "sha256": "1bae8b8295b0504eaca1e3fd864a1e7ea3f06b2348f8ce1bdbd8bfe0cccecfcc",
+    "text": "Te atacker must remove a TROOP card of his choice from those atacking the area. BOT: Chooses the lowest value Troop. Surprise sortie",
+    "originalSvg": "assets/cards/christian/05_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/06_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      0,
+      540,
+      180,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 30,
+    "bytes": 999892,
+    "sha256": "2a9bdce200ace85177ee6c13cf256c8e61a0abd8eeb9383179285425a3c2d38e",
+    "text": "Afer seeing the rolls of an ATACK, you can roll all your dice once again. BOT: Only if it loses the ﬁght. Relic",
+    "originalSvg": "assets/cards/christian/06_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/07_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 31,
+    "bytes": 1003969,
+    "sha256": "ebfa965d550685b1288a811935e1a6e71e2a5ae281dc8486eba47978c781ea21",
+    "text": "Draw 4 CARDS from the Christian deck and keep one; discard the rest. Monasteries",
+    "originalSvg": "assets/cards/christian/07_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/08_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 7,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 25,
+    "bytes": 902739,
+    "sha256": "f800f418dd603f09be2289f5af8a114addc62a49efeabec3e48bdbc02af1955a",
+    "text": "Te independent area you choose with a defensive value of less than 4 and bordering your kingdom becomes your own. Surrender of independence",
+    "originalSvg": "assets/cards/christian/08_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/09_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 25,
+    "bytes": 1024856,
+    "sha256": "5d6048a691be64a5408671f471f2d80d70a1d5f7f546d87f3d00388f7d9a3314",
+    "text": "Reduce the card BONUS of a border Muslim kingdom by 1. You may reduce by 1 the card BONUS of a Muslim border kingdom each time you do the discard action. Military Orders",
+    "originalSvg": "assets/cards/christian/09_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/10_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 26,
+    "bytes": 879633,
+    "sha256": "a752fb4030cdbc70d71b027b1e301ac79dee66bf797bd49f926b49fd6ad02385",
+    "text": "Choose a kingdom; during the rest of the turn you will not be allowed to do the ATACK action one against the other. Truce",
+    "originalSvg": "assets/cards/christian/10_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/11_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 20,
+    "bytes": 1042593,
+    "sha256": "2cd1461e2ea56dd9904743e5494f424f591b3abaf48493a5dae35dd13c25704a",
+    "text": "Draw 2 CARDS from the Christian deck and add them to your hand. Te Way of Saint James",
+    "originalSvg": "assets/cards/christian/11_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/12_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 28,
+    "bytes": 933176,
+    "sha256": "add9505d54094a020f894b3eb46564007a5fb7cb71c2109db4f521bac142c340",
+    "text": "Choose a border area of another kingdom. Each of you throw 4 dice. If you roll more hits, the area becomes yours. BOT: Chooses the area with the highest defensive value. Judgment of God",
+    "originalSvg": "assets/cards/christian/12_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/13_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      180,
+      270,
+      360,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 29,
+    "bytes": 1009889,
+    "sha256": "961c78886ac5e1878890f4dbfeb88696ea51afc9759d01677889cc6f1f28a7d7",
+    "text": "You can replace up to 3 CARDS from your hand (including this one) with new cards drawn from the Christian deck. Succession",
+    "originalSvg": "assets/cards/christian/13_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/14_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      360,
+      270,
+      540,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 23,
+    "bytes": 1004896,
+    "sha256": "4583ea0256fa75612ae1b16e6349ee770337bc2b57eabe4dc69643fdf8e8bf21",
+    "text": "Choose a Christian kingdom: You both increase the card BONUS by 1 but you cannot do the ATACK action one against the other for the rest of the turn. Royal marriage",
+    "originalSvg": "assets/cards/christian/14_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/15_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      0,
+      540,
+      180,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 26,
+    "bytes": 1083637,
+    "sha256": "26cd0b79c087a84cdfcf3bbcacfad8204d0d7dc64efbb1579b4abe2c1ababc8c",
+    "text": "Each Christian TROOP card atacking Muslim kingdoms has 1 additional DIE until the end of the turn. D Crusaders",
+    "originalSvg": "assets/cards/christian/15_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/16_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 25,
+    "bytes": 1050564,
+    "sha256": "766fba300e1cb8ce972c0aeffc8d5c5e365879045a5ac5ae5724bf83ca858875",
+    "text": "Add a garrison to one of your castles. Every time you make the DISCARD action, you can add a garrison to one of your castles. Repopulation",
+    "originalSvg": "assets/cards/christian/16_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/17_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 8,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 18,
+    "bytes": 1029445,
+    "sha256": "08dd78a0b35e0618893f9859323bc7cc3569b684f6abb59f1265073133a50eb8",
+    "text": "Convert to independent an area that borders your kingdom. Cannot be used against CASTI- LE. El Cid scenario: Te Almoravid “bot” kingdom must discard the ﬁrst card of its deck. El Cid campaign",
+    "originalSvg": "assets/cards/christian/17_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/18_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 30,
+    "bytes": 939684,
+    "sha256": "ca7ec587f40a0eeb17f934f6464dfd26ea598e17787104070f7525ac014405f9",
+    "text": "Choose a kingdom who must discard one card at random. BOT: Chooses the kingdom with the most cards in its hand. Razzia",
+    "originalSvg": "assets/cards/christian/18_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/19_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 30,
+    "bytes": 906398,
+    "sha256": "698efa7480b6c4bcd2f3c14181bdae2385011575665b309f39e07100ada17226",
+    "text": "During the rest of the turn your card BONUS does not decrea- se. Troubadours",
+    "originalSvg": "assets/cards/christian/19_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/20_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 24,
+    "bytes": 1047438,
+    "sha256": "b5615d7ca0f88543693f58c7fc8eaf017d0771d1dfbd695034cc3cdf17582737",
+    "text": "You can view ALL the cards of a Muslim kingdom of your choice. If the kingdom is a bot, afer looking at its cards reshu- ﬄe them. Mozarabs",
+    "originalSvg": "assets/cards/christian/20_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/21_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 33,
+    "bytes": 1034419,
+    "sha256": "9daf0c39ddf8bfac8ddf36a5f89c4411b2020f0f1552fb5388c051cc8f5254e2",
+    "text": "Put garrison in two areas of your choice (they can be from another kingdom). BOT: Roll 2 times the die to choose castles controlled by the bot. Walls",
+    "originalSvg": "assets/cards/christian/21_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/22_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      360,
+      270,
+      540,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 2,
+    "kind": "card",
+    "removedOffCanvas": 28,
+    "bytes": 1094945,
+    "sha256": "3c8d8280f53aa28b3e1eaed7537ac7207140f3874a56a27cac57bf09541f69a8",
+    "text": "An area of your choice, borde- ring an independent area, will be atacked with 5 DICE. If the atack succeeds, it becomes independent as well. (It is resolved as an atack action). BOT: See rules. Independent campaign",
+    "originalSvg": "assets/cards/christian/22_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/23_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 29,
+    "bytes": 997988,
+    "sha256": "69760b8aea4a059c282af0b570ee22a90e99c43d426940de2226da4067aaa84d",
+    "text": "5 5 Te King",
+    "originalSvg": "assets/cards/christian/23_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/24_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 9,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 23,
+    "bytes": 998954,
+    "sha256": "7d12a5a5e628af7abba39421fe5739d578e2ca5c21415dbbf621dde6281dbc2b",
+    "text": "5 5 Te Earl",
+    "originalSvg": "assets/cards/christian/24_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/25_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 10,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 32,
+    "bytes": 996171,
+    "sha256": "86d810edd8fbca346c7b3e170525eb05498d8c480e9b3ffd1fe91a00418cedfb",
+    "text": "4 4 Hidalgos",
+    "originalSvg": "assets/cards/christian/25_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/26_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 10,
+    "cropPt": [
+      180,
+      0,
+      360,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 32,
+    "bytes": 1000480,
+    "sha256": "a8c37dd23f5ea57d9101a69c960210119a0e178c8a1260d088991165436bcdc5",
+    "text": "4 4 Infanzones",
+    "originalSvg": "assets/cards/christian/26_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/27_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 10,
+    "cropPt": [
+      360,
+      0,
+      540,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 26,
+    "bytes": 997971,
+    "sha256": "51f71891a774a2dedcd7df6b382e7fc6a500b74f6e950676f000f2110c9ce529",
+    "text": "4 4 Knights",
+    "originalSvg": "assets/cards/christian/27_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/28_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 10,
+    "cropPt": [
+      0,
+      270,
+      180,
+      540
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 6,
+    "kind": "card",
+    "removedOffCanvas": 35,
+    "bytes": 1001697,
+    "sha256": "1fd8bc9ec8389b23b1113a8583dcd1f509d821701e8924abb97df9011d9275fd",
+    "text": "3 3 Mesnada",
+    "originalSvg": "assets/cards/christian/28_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/29_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 11,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 7,
+    "kind": "card",
+    "removedOffCanvas": 21,
+    "bytes": 999775,
+    "sha256": "a27b3ba7d89ef139d9fc0f2188fcfed1e8078eb6c618d85424b5ca4404a029ef",
+    "text": "2 2 Hueste",
+    "originalSvg": "assets/cards/christian/29_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/30_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 11,
+    "cropPt": [
+      180,
+      540,
+      360,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 23,
+    "bytes": 1001096,
+    "sha256": "01105ae5bd2d4ecd2e15dc90eb30591e223bf24ad82ca9302570cca4356e0d38",
+    "text": "1 1 Villanos",
+    "originalSvg": "assets/cards/christian/30_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/31_0.3mm.png",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 11,
+    "cropPt": [
+      360,
+      540,
+      540,
+      810
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 1,
+    "kind": "card",
+    "removedOffCanvas": 17,
+    "bytes": 1003439,
+    "sha256": "5f6dc9e8fb97bf9cb552d6608312c43f42086f964a0b55884a583b49c83fd752",
+    "text": "1 1 Peasants",
+    "originalSvg": "assets/cards/christian/31_0.3mm.svg",
+    "pixels": [
+      762,
+      1143
+    ],
+    "pxPerMm": [
+      12,
+      12
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/cards/christian/back_0.3mm.svg",
+    "source": "Cards-Taifa-30.pdf",
+    "page": 12,
+    "cropPt": [
+      0,
+      0,
+      180,
+      270
+    ],
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 4,
+    "bytes": 727806,
+    "sha256": "edab76639e5c3a0d7837c2ac81b67ae4be6969a4d0dcb9c2714031339bc4351b"
+  },
+  {
+    "file": "sources/assets/counters/turn/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      62.362,
+      117.31200000000001,
+      117.31200000000001
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888893,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 50,
+    "bytes": 114067,
+    "sha256": "700d046f29cf8527cdb876ebf31343bb54aaef5264471c7a0d7db0408ff58afa",
+    "originalSvg": "assets/counters/turn/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/turn/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      62.362,
+      776.712,
+      117.31200000000001
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888893,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 52,
+    "bytes": 107226,
+    "sha256": "17caa47aad3eac8a091f05eab17b682e7fcaa448ce299643dd38223679bab9ea",
+    "originalSvg": "assets/counters/turn/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/valencia-castle/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      117.31200000000001,
+      117.31200000000001,
+      172.262,
+      172.262
+    ],
+    "widthMm": 19.385138888888882,
+    "heightMm": 19.385138888888882,
+    "quantity": 13,
+    "kind": "counter",
+    "removedOffCanvas": 73,
+    "bytes": 34342,
+    "sha256": "3cbb90aa6a354f4d6d2a36fd8109bddb1766b241d0c749c468ade14c0eb6938f",
+    "originalSvg": "assets/counters/valencia-castle/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696673,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/valencia-castle/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      666.812,
+      117.31200000000001,
+      721.7620000000001,
+      172.262
+    ],
+    "widthMm": 19.385138888888903,
+    "heightMm": 19.385138888888882,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 88,
+    "bytes": 32894,
+    "sha256": "0f42d25fe1adc575c0fa6a6bf934b62d0277c9c281626a7871705c71e662bc1b",
+    "originalSvg": "assets/counters/valencia-castle/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696658,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/valencia-bonus/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      117.31200000000001,
+      117.31200000000001,
+      172.262
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888882,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 76,
+    "bytes": 53334,
+    "sha256": "858abf840cac55b19f4792c84363e43f46b896b2d6f7f30d0f397e93072b04ef",
+    "originalSvg": "assets/counters/valencia-bonus/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/valencia-bonus/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      117.31200000000001,
+      776.712,
+      172.262
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888882,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 89,
+    "bytes": 53370,
+    "sha256": "e9f03c96a7cdd54b8d0aafa4741bcbc55c26d0e1bea3afaa7eca18dd3507cd6f",
+    "originalSvg": "assets/counters/valencia-bonus/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/badajoz-castle/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      117.31200000000001,
+      172.262,
+      172.262,
+      227.21200000000002
+    ],
+    "widthMm": 19.385138888888882,
+    "heightMm": 19.385138888888893,
+    "quantity": 13,
+    "kind": "counter",
+    "removedOffCanvas": 83,
+    "bytes": 33316,
+    "sha256": "49d6ee4885806ba20f25cd9cf105560711ece99d3854daf87858f123dd0d7df2",
+    "originalSvg": "assets/counters/badajoz-castle/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696673,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/badajoz-castle/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      666.812,
+      172.262,
+      721.7620000000001,
+      227.21200000000002
+    ],
+    "widthMm": 19.385138888888903,
+    "heightMm": 19.385138888888893,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 104,
+    "bytes": 33679,
+    "sha256": "3619e281ca4a6ecf61336a0bb2c7576823b7796ec21c5221b893faec0baf30c1",
+    "originalSvg": "assets/counters/badajoz-castle/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696658,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/badajoz-bonus/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      172.262,
+      117.31200000000001,
+      227.21200000000002
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888893,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 87,
+    "bytes": 39241,
+    "sha256": "ad62096869387105b0ba16754c8151a0113b4259b5e0c7141b0578083aa56d95",
+    "originalSvg": "assets/counters/badajoz-bonus/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/badajoz-bonus/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      172.262,
+      776.712,
+      227.21200000000002
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888893,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 106,
+    "bytes": 39345,
+    "sha256": "8a51ad684849d373eff53f27ae0d4b8be027eacac61d64135dd2661de0433cea",
+    "originalSvg": "assets/counters/badajoz-bonus/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/catalan-counties-castle/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      117.31200000000001,
+      227.21200000000002,
+      172.262,
+      282.16200000000003
+    ],
+    "widthMm": 19.385138888888882,
+    "heightMm": 19.385138888888893,
+    "quantity": 13,
+    "kind": "counter",
+    "removedOffCanvas": 82,
+    "bytes": 31641,
+    "sha256": "e8d0cbb9c7b191ea257f94e11a39f8780942f1a4269e43fff0956947a4da227d",
+    "originalSvg": "assets/counters/catalan-counties-castle/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696673,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/catalan-counties-castle/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      666.812,
+      227.21200000000002,
+      721.7620000000001,
+      282.16200000000003
+    ],
+    "widthMm": 19.385138888888903,
+    "heightMm": 19.385138888888893,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 104,
+    "bytes": 33018,
+    "sha256": "2cddf1926a6b5864a0e46d28a649482badfe050455c10ce137923faf06ee5d6a",
+    "originalSvg": "assets/counters/catalan-counties-castle/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696658,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/catalan-counties-bonus/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      227.21200000000002,
+      117.31200000000001,
+      282.16200000000003
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888893,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 87,
+    "bytes": 35821,
+    "sha256": "817164da94113a5945c54177a19e84be1a333da8c9ace94ccecfc3fc9584a1a2",
+    "originalSvg": "assets/counters/catalan-counties-bonus/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/catalan-counties-bonus/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      227.21200000000002,
+      776.712,
+      282.16200000000003
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888893,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 107,
+    "bytes": 36273,
+    "sha256": "d4737263669a6225aa3c3da0d36401f1b348d0d3f36058fe94eacde9325edfc1",
+    "originalSvg": "assets/counters/catalan-counties-bonus/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696665
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/castile-castle/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      117.31200000000001,
+      282.16200000000003,
+      172.262,
+      337.112
+    ],
+    "widthMm": 19.385138888888882,
+    "heightMm": 19.385138888888882,
+    "quantity": 13,
+    "kind": "counter",
+    "removedOffCanvas": 85,
+    "bytes": 32301,
+    "sha256": "1f8eeaed5955e6097d41297d7dd7fee67475795d948b4a6cc9bd534c2739eb77",
+    "originalSvg": "assets/counters/castile-castle/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696673,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/castile-castle/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      666.812,
+      282.16200000000003,
+      721.7620000000001,
+      337.112
+    ],
+    "widthMm": 19.385138888888903,
+    "heightMm": 19.385138888888882,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 104,
+    "bytes": 32258,
+    "sha256": "78050e79009d7c48c27bfa3ab442eecdb69aefefe1645fad76e484827f39a9e8",
+    "originalSvg": "assets/counters/castile-castle/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696658,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/castile-bonus/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      282.16200000000003,
+      117.31200000000001,
+      337.112
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888882,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 88,
+    "bytes": 41003,
+    "sha256": "febf584b4bfa26b17e5410051bbaf90861c649c1de19ffc039e0e13a654d07e9",
+    "originalSvg": "assets/counters/castile-bonus/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/castile-bonus/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      282.16200000000003,
+      776.712,
+      337.112
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888882,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 106,
+    "bytes": 41643,
+    "sha256": "d8f02f21f2e7eaf64714b6f8d49e05cb7aa97482e18c4ba29eabf649a732e7a8",
+    "originalSvg": "assets/counters/castile-bonus/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/leon-castle/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      117.31200000000001,
+      337.112,
+      172.262,
+      392.06200000000007
+    ],
+    "widthMm": 19.385138888888882,
+    "heightMm": 19.385138888888903,
+    "quantity": 13,
+    "kind": "counter",
+    "removedOffCanvas": 84,
+    "bytes": 34048,
+    "sha256": "29d8d93440156064100a836b4b2d08dbbebd4d77a57683090610ba13a09ea889",
+    "originalSvg": "assets/counters/leon-castle/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696673,
+      12.019516668696658
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/leon-castle/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      666.812,
+      337.112,
+      721.7620000000001,
+      392.06200000000007
+    ],
+    "widthMm": 19.385138888888903,
+    "heightMm": 19.385138888888903,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 103,
+    "bytes": 32807,
+    "sha256": "d88c0e15915c94e26e051d0c1207c9e8845610c6c9604314486f78d8697b7442",
+    "originalSvg": "assets/counters/leon-castle/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696658,
+      12.019516668696658
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/leon-bonus/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      337.112,
+      117.31200000000001,
+      392.06200000000007
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888903,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 87,
+    "bytes": 27745,
+    "sha256": "e778461e72978d8c950b5f1c6a570620c6a463391156e3dbdc932d6c8a5f87e3",
+    "originalSvg": "assets/counters/leon-bonus/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696658
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/leon-bonus/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      337.112,
+      776.712,
+      392.06200000000007
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888903,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 107,
+    "bytes": 28026,
+    "sha256": "54031d55ac8d794d19ba1e0fdca8540cb59757687a98723de5f66f1c7b8878c8",
+    "originalSvg": "assets/counters/leon-bonus/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696658
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/seville-castle/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      117.31200000000001,
+      392.06200000000007,
+      172.262,
+      447.01200000000006
+    ],
+    "widthMm": 19.385138888888882,
+    "heightMm": 19.385138888888882,
+    "quantity": 13,
+    "kind": "counter",
+    "removedOffCanvas": 61,
+    "bytes": 36856,
+    "sha256": "83b4eaf043e311b397ec7cc8aec5d4f0f55b9f0e7ef466a06cd212ad247d34c5",
+    "originalSvg": "assets/counters/seville-castle/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696673,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/seville-castle/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      666.812,
+      392.06200000000007,
+      721.7620000000001,
+      447.01200000000006
+    ],
+    "widthMm": 19.385138888888903,
+    "heightMm": 19.385138888888882,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 80,
+    "bytes": 34593,
+    "sha256": "fd3884d6dcf081ee13386c4e39d599c1850d603e32cf76226f8d306d3213c895",
+    "originalSvg": "assets/counters/seville-castle/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696658,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/seville-bonus/front_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      62.362,
+      392.06200000000007,
+      117.31200000000001,
+      447.01200000000006
+    ],
+    "widthMm": 19.385138888888893,
+    "heightMm": 19.385138888888882,
+    "quantity": 1,
+    "kind": "counter",
+    "removedOffCanvas": 64,
+    "bytes": 45448,
+    "sha256": "13817cdc9905ca443c81738ba1bd45897b150ef283d823fa2c0bba3f05f6c312",
+    "originalSvg": "assets/counters/seville-bonus/front_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696665,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/counters/seville-bonus/back_1mm.png",
+    "source": "Counters-Taifa-30.pdf",
+    "page": 2,
+    "cropPt": [
+      721.7620000000001,
+      392.06200000000007,
+      776.712,
+      447.01200000000006
+    ],
+    "widthMm": 19.385138888888864,
+    "heightMm": 19.385138888888882,
+    "quantity": 0,
+    "kind": "back",
+    "removedOffCanvas": 83,
+    "bytes": 45069,
+    "sha256": "4b28f5bde2905e081c3f662785eee5a3d339ef647739301506d5f0b51b844669",
+    "originalSvg": "assets/counters/seville-bonus/back_1mm.svg",
+    "pixels": [
+      233,
+      233
+    ],
+    "pxPerMm": [
+      12.019516668696683,
+      12.019516668696673
+    ],
+    "format": "png"
+  },
+  {
+    "file": "sources/assets/board/map_2mm.png",
+    "source": "Map-Taifa-30.pdf",
+    "page": 1,
+    "cropPt": [
+      0,
+      0,
+      1314,
+      1314
+    ],
+    "widthMm": 463.54999999999995,
+    "heightMm": 463.54999999999995,
+    "quantity": 1,
+    "kind": "board",
+    "removedOffCanvas": 124,
+    "bytes": 28606069,
+    "sha256": "3ebe832254d3b62742241ed013b386ff4ef28d8d0c5678b5994cea268eb23de2",
+    "renderer": "Cairo SVG, 305 dpi transparency fallback",
+    "originalSvg": "assets/board/map_2mm.svg",
+    "pixels": [
+      5563,
+      5563
+    ],
+    "pxPerMm": [
+      12.000862905835401,
+      12.000862905835401
+    ],
+    "format": "png"
+  }
+]
